@@ -1,5 +1,5 @@
 {
-  "name": "gojs-angular",
+  "name": "@time-loop/gojs-angular",
   "version": "1.0.3",
   "dependencies": {
     "tslib": "^2.0.0"
